@@ -1,0 +1,7 @@
+img[src$="roundednc"] {
+display: block;
+border-radius: 50%;
+max-width: 9%;
+max-height: 10%
+		
+}
